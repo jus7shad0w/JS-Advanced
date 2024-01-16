@@ -12,5 +12,6 @@ function lastKnum(n, k) {
     }
     return sequence;
 }
+
 console.log(lastKnum(6, 3));
 console.log(lastKnum(8, 2));
